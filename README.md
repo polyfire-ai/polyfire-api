@@ -1,0 +1,1 @@
+> ⚠️ **Unmaintained since 2023.** This repository belongs to Polyfact's former developer-tools product (later renamed Polyfire), which has been discontinued. **Polyfact** is now an AI-powered public affairs monitoring platform for France and the EU → **https://www.polyfact.com**
