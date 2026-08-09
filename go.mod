@@ -20,8 +20,7 @@ require (
 	github.com/pkoukk/tiktoken-go-loader v0.0.1
 	github.com/posthog/posthog-go v0.0.0-20230801140217-d607812dee69
 	github.com/rakyll/openai-go v1.0.9
-	github.com/sashabaranov/go-openai v1.17.9
-	github.com/supabase/postgrest-go v0.0.7
+	github.com/sashabaranov/go-openai v1.27.1
 	github.com/tmc/langchaingo v0.0.0-20230802030916-271e9bd7e7c5
 	google.golang.org/protobuf v1.33.0
 	gorm.io/datatypes v1.2.1
